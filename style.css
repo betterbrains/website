@@ -8,13 +8,14 @@ body {
   font-size: 12px/1.5em
   line-height: 1.8em;
   letter-spacing: .2em;
+	align: center;
 }
 
-#header {
+.main {
 	color: #fff;
 	padding: 50px;
   background: #F05133 repeat-x;
-  height: 500px;
+  min-height: 490px;
 }
 
 .spacer {
@@ -70,5 +71,5 @@ body {
 }
 
 .logo {
-	margin-left: 42%;
+	margin-left: 40%;
 }
