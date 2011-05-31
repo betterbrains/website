@@ -1,4 +1,3 @@
-
 a:link, a:visited { color: #be2d18; text-decoration: none; padding: 1px;}
 a:hover, a:active { color: #fff; background: #be2d18; text-decoration: underline;}
 
@@ -7,7 +6,7 @@ body {
 	margin: 0 0;
 	font-family: Arial, Helvetica, Verdana, sans-serif;
 	font-size: 12px/1.5em;
-	line-height: 1.8em;
+	line-height: 1.6em;
 	letter-spacing: .2em;
 }
 
@@ -20,14 +19,18 @@ body {
 
 .container{
 	margin: 0 auto;
-	width: 50%;
+	width: 56%;
 }
 
 .content {
 	float: left;
-	width: 42%;
+	width: 60%;
 }
-
+.footer-content{
+	line-height: 1.4em;
+	text-align: center;
+	
+	}
 .title1 {
 	color: #fff;
 	font-weight: normal;
