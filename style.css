@@ -3,7 +3,7 @@ a:hover, a:active { color: #fff; background: #be2d18; text-decoration: underline
 
 body {
 	background: #000;
-	margin: 0 0;
+	margin: 0;
 	font-family: Arial, Helvetica, Verdana, sans-serif;
 	font-size: 12px/1.5em;
 	line-height: 1.6em;
@@ -19,12 +19,12 @@ body {
 
 .container{
 	margin: 0 auto;
-	width: 56%;
+	width: 778px;
 }
 
 .content {
 	float: left;
-	width: 60%;
+	width: 380px;
 }
 .footer-content{
 	line-height: 1.4em;
